@@ -13,11 +13,11 @@
 - [Additional Information](#additional-information)
 
 ## Overview
-Welcome to the central hub for the entrepreneurial ventures co-owned by my brother Eoin and me. As two dynamic twenty-somethings passionate about music, entrepreneurship, innovation, and problem-solving, we blend a diverse mix of skills to forge businesses that are as innovative as they are impactful.
+Welcome to the central hub for the entrepreneurial ventures part owned by me. 
 
 I bring over ten years of experience in customer service and technical support, equipping me with an extensive toolkit for business operations. This background has fostered a robust understanding of business structures and front-end development, complemented by a solid conceptual knowledge of backend systems.
 
-Eoin, on the cusp of completing a four-year degree in engineering, injects a structured, rule-based approach that underpins our business strategies. His engineering background and knack for identifying and solving problems provide a strong foundation for our ventures.
+Co-owner Eoin, on the cusp of completing a four-year degree in engineering, injects a structured, rule-based approach that underpins our business strategies. His engineering background and knack for identifying and solving problems provide a strong foundation for our ventures.
 
 Together, we focus on cultivating businesses that lead their markets while embodying our core values of integrity, creativity, and community impact. Each venture was initiated from a unique insight or a specific market need:
 - 'C for Consensus' aims to enhance democratic participation through innovative blockchain technology.
