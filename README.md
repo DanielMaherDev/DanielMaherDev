@@ -3,9 +3,9 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Ventures](#ventures)
-  - [C for Consensus](#1-c-for-consensus) - [Repository Link](#https://github.com/DanielMaherDev/CforConsensus)
+  - [C for Consensus](#1-c-for-consensus) - [Repository Link](https://github.com/DanielMaherDev/CforConsensus)
   - [Rhythm Retail](#2-rhythm-retail) - [Repository Link](#)
-  - [99%](#3-99) - [Repository Link](#https://github.com/DanielMaherDev/99-)
+  - [99%](#3-99) - [Repository Link](https://github.com/DanielMaherDev/99-)
 - [Structure](#structure)
 - [Diversification Strategy](#diversification-strategy)
 - [Detailed Readmes](#detailed-readmes)
@@ -29,7 +29,7 @@ Our goal is to guide these enterprises toward significant growth and industry le
 ## Ventures
 
 ### 1. C for Consensus
-#### [C for Consensus Repository](#https://github.com/DanielMaherDev/CforConsensus)
+#### [C for Consensus Repository](https://github.com/DanielMaherDev/CforConsensus)
 'C for Consensus' is a groundbreaking social app leveraging the robust Pi Coin blockchain technology to harness the power of liquid democracy. This platform engages users in direct decision-making or through delegated voting rights, thereby enhancing governance with increased flexibility and transparency.
 
 ### 2. Rhythm Retail
@@ -37,7 +37,7 @@ Our goal is to guide these enterprises toward significant growth and industry le
 Rhythm Retail is an online store that curates high-quality, competitively priced items. We are committed to delivering exceptional value and customer service, ensuring a superior shopping experience.
 
 ### 3. 99%
-#### [99% Game Repository](#https://github.com/DanielMaherDev/99-)
+#### [99% Game Repository](https://github.com/DanielMaherDev/99-)
 '99%' is a mobile strategy game that provides complex puzzles and sophisticated gameplay. Designed for a broad range of players, from casual to hardcore, it offers a challenging and engaging experience.
 
 ## Structure
