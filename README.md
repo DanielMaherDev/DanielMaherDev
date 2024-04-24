@@ -13,7 +13,18 @@
 - [Additional Information](#additional-information)
 
 ## Overview
-Welcome to the central hub for the three business ventures co-owned by my brother and me. Each venture strategically captures unique market opportunities, focusing on innovation and quality in its sector, with 'C for Consensus' as our flagship enterprise.
+Welcome to the central hub for the entrepreneurial ventures co-owned by my brother Eoin and me. As two dynamic twenty-somethings passionate about music, entrepreneurship, innovation, and problem-solving, we blend a diverse mix of skills to forge businesses that are as innovative as they are impactful.
+
+I bring over ten years of experience in customer service and technical support, equipping me with an extensive toolkit for business operations. This background has fostered a robust understanding of business structures and front-end development, complemented by a solid conceptual knowledge of backend systems.
+
+Eoin, on the cusp of completing a four-year degree in engineering, injects a structured, rule-based approach that underpins our business strategies. His engineering background and knack for identifying and solving problems provide a strong foundation for our ventures.
+
+Together, we focus on cultivating businesses that lead their markets while embodying our core values of integrity, creativity, and community impact. Each venture was initiated from a unique insight or a specific market need:
+- 'C for Consensus' aims to enhance democratic participation through innovative blockchain technology.
+- 'Rhythm Retail' was created to deliver high-quality products at accessible prices.
+- '99%' offers an engaging and strategic gameplay experience to a diverse audience.
+
+Our goal is to guide these enterprises toward significant growth and industry leadership over the next decade, ensuring they make a positive impact on their communities. We envision a future where our ventures not only succeed financially but also set industry standards for innovation and ethical practices.
 
 ## Ventures
 
