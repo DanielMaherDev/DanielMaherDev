@@ -21,8 +21,8 @@ Eoin, on the cusp of completing a four-year degree in engineering, injects a str
 
 Together, we focus on cultivating businesses that lead their markets while embodying our core values of integrity, creativity, and community impact. Each venture was initiated from a unique insight or a specific market need:
 - 'C for Consensus' aims to enhance democratic participation through innovative blockchain technology.
-- 'Rhythm Retail' was created to deliver high-quality products at accessible prices.
-- '99%' offers an engaging and strategic gameplay experience to a diverse audience.
+- 'Rhythm Retail' is an online retail business, providing quality tech products at a competitive price/
+- '99%' is a strategy based mobile game, where the goal is to complete 99% of a given task/level
 
 Our goal is to guide these enterprises toward significant growth and industry leadership over the next decade, ensuring they make a positive impact on their communities. We envision a future where our ventures not only succeed financially but also set industry standards for innovation and ethical practices.
 
@@ -30,7 +30,7 @@ Our goal is to guide these enterprises toward significant growth and industry le
 
 ### 1. C for Consensus
 #### [C for Consensus Repository](https://github.com/DanielMaherDev/CforConsensus)
-'C for Consensus' is a groundbreaking social app leveraging the robust Pi Coin blockchain technology to harness the power of liquid democracy. This platform engages users in direct decision-making or through delegated voting rights, thereby enhancing governance with increased flexibility and transparency.
+'C for Consensus' is a groundbreaking social app leveraging the robust Pi Coin blockchain technology to harness the power of liquid democracy. This platform engages users in direct decision-making, thereby enhancing governance with increased flexibility and transparency.
 
 ### 2. Rhythm Retail
 #### [Rhythm Retail Repository](#)
