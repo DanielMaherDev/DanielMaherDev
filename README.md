@@ -1,5 +1,17 @@
 # Business Portfolio
 
+## Table of Contents
+- [Overview](#overview)
+- [Ventures](#ventures)
+  - [C for Consensus](#1-c-for-consensus)
+  - [Rhythm Retail](#2-rhythm-retail)
+  - [99%](#3-99)
+- [Structure](#structure)
+- [Diversification Strategy](#diversification-strategy)
+- [Detailed Readmes](#detailed-readmes)
+- [Contact](#contact)
+- [Additional Information](#additional-information)
+
 ## Overview
 This repository serves as the central hub for the three distinct business ventures co-owned with my brother. Each business leverages unique market opportunities, focusing on innovation and quality in diverse sectors, with 'C for Consensus' as our flagship venture.
 
