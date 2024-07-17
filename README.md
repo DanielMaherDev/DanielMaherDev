@@ -1,3 +1,5 @@
+*PART OF AN AI RELATED PROJECT*
+
 # Business Portfolio
 
 ## Table of Contents
